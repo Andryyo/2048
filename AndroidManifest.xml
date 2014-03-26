@@ -7,7 +7,7 @@
     <uses-sdk android:minSdkVersion="10"/>
     <application android:label="@string/app_name">
         <activity
-                android:name="com.example._2048.MyActivity"
+                android:name="com.Andryyo._2048.MyActivity"
                 android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>

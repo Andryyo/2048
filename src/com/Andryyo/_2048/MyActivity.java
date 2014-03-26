@@ -1,4 +1,4 @@
-package com.example._2048;
+package com.Andryyo._2048;
 
 import android.app.Activity;
 import android.os.Bundle;
